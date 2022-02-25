@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 And here is my best ♂️ friend's github. We can have a look.
 
-[![jyi2ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyi2ya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![jyi2ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyi2ya&show_icons=true&theme=dark)](https://github.com/jyi2ya)
 
