@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Have fun, be good.
 - ⚡ Fun fact: Everything is fun.
 
+![](https://github-profile-trophy.vercel.app/?username=ccviolett&column=7&theme=onedark)
+
 [![ccviolett's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccviolett&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccviolett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 And here is my best ♂️ friend's github. We can have a look.
+
+![](https://github-profile-trophy.vercel.app/?username=jyi2ya&column=7&theme=onedark)
 
 [![jyi2ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyi2ya&show_icons=true&theme=dark)](https://github.com/jyi2ya)
 
